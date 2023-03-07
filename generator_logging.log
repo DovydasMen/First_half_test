@@ -1,0 +1,70 @@
+06/03/2023 19:44:45 - root - INFO - Client entered value <bound method My_prefered_length_pasword.get_password_length of <__main__.My_prefered_length_pasword object at 0x0000015756E24C90>>
+06/03/2023 19:45:13 - root - INFO - Client entered value <bound method My_prefered_length_pasword.get_password_length of <__main__.My_prefered_length_pasword object at 0x0000018AD1F64C90>>
+06/03/2023 19:46:19 - root - INFO - Client entered value <bound method My_prefered_length_pasword.get_password_length of <__main__.My_prefered_length_pasword object at 0x0000020681E14110>>
+06/03/2023 19:46:30 - root - INFO - Client entered value <bound method My_prefered_length_pasword.get_password_length of <__main__.My_prefered_length_pasword object at 0x000001FE02934110>>
+06/03/2023 19:47:05 - root - INFO - Client entered value <bound method My_prefered_length_pasword.get_password_length of <__main__.My_prefered_length_pasword object at 0x0000018A88334110>>
+06/03/2023 19:47:46 - root - INFO - Client entered value <bound method My_prefered_length_pasword.get_password_length of <__main__.My_prefered_length_pasword object at 0x00000273F8CA4110>>
+06/03/2023 19:48:37 - root - INFO - Client entered value <function My_prefered_length_pasword.get_password_length at 0x000001BFE99804A0>
+06/03/2023 19:51:44 - root - INFO - Client entered value <bound method My_prefered_length_pasword.get_password_length of <__main__.My_prefered_length_pasword object at 0x0000023E002A4110>>
+06/03/2023 19:51:53 - root - INFO - Client entered value <bound method My_prefered_length_pasword.get_password_length of <__main__.My_prefered_length_pasword object at 0x000002B9085B4110>>
+06/03/2023 19:55:00 - root - INFO - Client entered value 8
+06/03/2023 19:55:12 - root - INFO - Client entered value 8
+06/03/2023 19:55:31 - root - INFO - Client entered value 8
+06/03/2023 19:55:37 - root - INFO - Client entered value 8
+06/03/2023 19:55:40 - root - INFO - Client entered value 8
+06/03/2023 19:57:06 - root - INFO - Client entered value 1
+06/03/2023 19:57:17 - root - INFO - Client entered value 1
+06/03/2023 19:59:30 - root - INFO - Client entered value 1
+06/03/2023 20:00:16 - root - INFO - Client entered value 1
+06/03/2023 20:00:28 - root - INFO - Client entered value 1
+06/03/2023 20:00:57 - root - INFO - Client entered value 8
+06/03/2023 20:01:04 - root - INFO - Client entered value 8
+06/03/2023 20:02:08 - root - INFO - Client entered value 8
+06/03/2023 20:02:18 - root - INFO - Client entered value 8
+06/03/2023 20:03:04 - root - INFO - Client entered value 8
+06/03/2023 20:03:22 - root - INFO - Client entered value 8
+06/03/2023 20:04:30 - root - INFO - Client entered value 8
+06/03/2023 20:04:47 - root - INFO - Client entered value 8
+06/03/2023 20:09:55 - root - INFO - Client entered value 8
+06/03/2023 20:10:58 - root - INFO - Client entered value 8
+06/03/2023 20:13:25 - root - INFO - Client entered value 8
+06/03/2023 20:14:03 - root - INFO - Client entered value 8
+06/03/2023 20:15:03 - root - INFO - Client entered value 12
+06/03/2023 20:16:22 - root - INFO - Client entered value 12
+06/03/2023 20:16:41 - root - INFO - Client entered value 8
+06/03/2023 20:21:06 - root - INFO - Client entered value 8
+06/03/2023 20:21:29 - root - INFO - Client entered value 8
+06/03/2023 20:26:58 - root - INFO - Client entered value 8
+06/03/2023 20:27:15 - root - INFO - Client entered value 8
+06/03/2023 20:28:09 - root - INFO - Client entered value <bound method My_prefered_length_pasword.user_needed_length of <__main__.My_prefered_length_pasword object at 0x000001F259F600D0>>
+06/03/2023 20:44:31 - root - INFO - Client entered value <bound method My_prefered_length_pasword.get_password_lenght of <__main__.My_prefered_length_pasword object at 0x000001C233340090>>
+06/03/2023 20:47:32 - root - INFO - Client entered value <bound method My_prefered_length_pasword.get_password_lenght of <__main__.My_prefered_length_pasword object at 0x0000015FBB2F4D10>>
+06/03/2023 20:47:38 - root - INFO - Client entered value <bound method My_prefered_length_pasword.get_password_lenght of <__main__.My_prefered_length_pasword object at 0x00000186D0A74D10>>
+06/03/2023 20:54:16 - root - INFO - Client entered value <function get_password_lenght at 0x0000020FA0634A40>
+06/03/2023 20:55:26 - root - INFO - Client entered value <function get_password_lenght at 0x000002BEED9F4900>
+06/03/2023 20:56:31 - root - INFO - Client entered value <function get_password_lenght at 0x000001ED1828CE00>
+06/03/2023 21:50:19 - root - INFO - Client entered value <function get_password_lenght at 0x0000027517E1CE00>
+06/03/2023 21:50:23 - root - INFO - Client entered value <function get_password_lenght at 0x00000207DA34CE00>
+06/03/2023 21:51:54 - root - INFO - Client entered value 22
+06/03/2023 21:52:15 - root - INFO - Client entered value 10
+06/03/2023 21:52:44 - root - INFO - Client entered value 9
+06/03/2023 21:52:48 - root - INFO - Client entered value 10
+06/03/2023 21:53:53 - root - INFO - Client entered value 6
+06/03/2023 21:56:27 - root - INFO - Client entered value <function get_password_lenght at 0x000001C7EE9DCF40>
+06/03/2023 21:56:29 - root - INFO - Client entered value <function get_password_lenght at 0x000002581694CF40>
+06/03/2023 21:59:18 - root - INFO - Client entered value 15
+06/03/2023 22:00:55 - root - INFO - Client entered value 1
+06/03/2023 22:01:01 - root - INFO - Client entered value 2
+06/03/2023 22:01:05 - root - INFO - Client entered value 3
+06/03/2023 22:19:13 - root - INFO - Client entered value 10
+06/03/2023 22:20:14 - root - INFO - Client entered value <function get_password_lenght at 0x0000027BBE1ACF40>
+06/03/2023 22:20:22 - root - INFO - Client entered value <function get_password_lenght at 0x0000025C5437CF40>
+06/03/2023 22:20:35 - root - INFO - Client entered value <function get_password_lenght at 0x00000151EDAECF40>
+06/03/2023 22:20:46 - root - INFO - Client entered value <function get_password_lenght at 0x000001FCE50DCF40>
+06/03/2023 22:21:04 - root - INFO - Client entered value <function get_password_lenght at 0x0000010B60530860>
+06/03/2023 22:24:15 - root - INFO - Client entered value <function get_password_lenght at 0x000001F248410860>
+06/03/2023 22:24:42 - root - INFO - Client entered value <function get_password_lenght at 0x000001FC5F7B0860>
+06/03/2023 22:25:01 - root - INFO - Client entered value 11
+06/03/2023 22:28:22 - root - INFO - Client entered value 11
+06/03/2023 22:46:16 - root - INFO - Client entered value 15
+06/03/2023 22:46:27 - root - INFO - Client entered value 8
