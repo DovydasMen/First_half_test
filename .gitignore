@@ -1,0 +1,4 @@
+.venv/
+testas.py
+.vscode
+__pycache__
