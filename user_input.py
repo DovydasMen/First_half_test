@@ -11,7 +11,7 @@ def get_password_lenght()-> int:
                 input("Please define your password lenght(should be integer): "))
             if password_lenght < 1:
                 raise Exception
-        except (ValueError, KeyboardInterrupt, EOFError):
+        except (ValueError, KeyboardInterrupt):
             logging.warning(f"Client trying to break our code. Entered bad value, o tried to paste or copy in our program.")
             print(f"You should specify integer, try again.")
         except Exception:
