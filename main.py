@@ -6,7 +6,7 @@ from RandomWordGenerator import RandomWord
 import logging
 from user_input import get_password_lenght
 
-logging.basicConfig(level=logging.DEBUG, filename='generator_logging.log', filemode='a',
+logging.basicConfig(level=logging.DEBUG, filename='user_input_error.txt', filemode='a',
                     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', datefmt='%d/%m/%Y %H:%M:%S')
 
 
@@ -29,8 +29,7 @@ class PasswordGenerator:
 class OwnSpecifiedPassword(PasswordGenerator):
 
     def __init__(self) -> None:
-        self.password_lenght = get_password_lenght()
-        logging.info(f"Client entered value {self.password_lenght}")
+        self.password_lenght = get_password_lenght() 
         super().__init__(password_length=self.password_lenght)
 
     def get_random_password_of_letters_and_special_chars(self)-> str:
@@ -53,6 +52,6 @@ class OwnSpecifiedPassword(PasswordGenerator):
 
 
 my_password = OwnSpecifiedPassword()
-print(my_password.get_random_password_of_letters())
-print(my_password.get_random_password_of_letters_and_special_chars())
-print(my_password.get_safe_random_password())
+print(my_password.get_random_password_of_letters()+ "\n")
+print(my_password.get_random_password_of_letters_and_special_chars()+ "\n") 
+print(my_password.get_safe_random_password()+ "\n") 
